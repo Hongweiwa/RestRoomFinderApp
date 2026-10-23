@@ -1,0 +1,6 @@
+// Shared by Debug and Release. The optional local file is never committed.
+GOOGLE_MAPS_API_KEY =
+#include? "Secrets.xcconfig"
+
+// Additive backend configuration; keeps existing Google key handling unchanged.
+#include "Supabase.xcconfig"

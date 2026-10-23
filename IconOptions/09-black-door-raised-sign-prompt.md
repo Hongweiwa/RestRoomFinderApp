@@ -1,0 +1,3 @@
+Edited using the built-in image generation tool.
+
+Edit this exact app icon with ONE targeted change only: translate the tiny white restroom sign (male, vertical divider, female) on the black left door straight UP by about 75 pixels on this 1254x1254 canvas, from its current center near (397,561) to approximately (397,486). Preserve its exact current small size, shapes and horizontal position. Fill its former position with the same solid black door. Leave EVERYTHING else unchanged: door silhouette, frame, location pin, background, composition, margins and colors. Flat black and white, fully opaque white background. No new elements.

@@ -1,0 +1,5 @@
+// Copy to Supabase.local.xcconfig and replace both placeholders.
+// xcconfig treats // as a comment: keep the $() between the two slashes.
+SUPABASE_URL = https:/$()/YOUR_PROJECT_REF.supabase.co
+SUPABASE_PUBLISHABLE_KEY = YOUR_SUPABASE_PUBLISHABLE_KEY
+// Only use the sb_publishable_... key. Never add secret/service-role/database credentials.

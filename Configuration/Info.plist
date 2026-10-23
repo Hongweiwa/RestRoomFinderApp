@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleTypeRole</key><string>Editor</string>
+            <key>CFBundleURLName</key><string>com.example.RestRoomFinder.auth</string>
+            <key>CFBundleURLSchemes</key><array><string>restroomfinder</string></array>
+        </dict>
+    </array>
+	<key>SupabaseURL</key>
+	<string>$(SUPABASE_URL)</string>
+	<key>SupabasePublishableKey</key>
+	<string>$(SUPABASE_PUBLISHABLE_KEY)</string>
+	<key>GoogleMapsAPIKey</key>
+	<string>$(GOOGLE_MAPS_API_KEY)</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>googlemaps</string>
+		<string>comgooglemaps</string>
+		<string>comgooglemaps-x-callback</string>
+	</array>
+</dict>
+</plist>

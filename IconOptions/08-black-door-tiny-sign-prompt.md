@@ -1,0 +1,3 @@
+Edited using the built-in image generation tool.
+
+Edit the supplied app icon with exactly ONE change: reduce the small white male/female/divider restroom sign on the black left door to HALF its current width and HALF its current height, keeping its center at the same position. It should be a tiny discreet sign, approximately 60 pixels wide and 65 pixels tall on this 1254-square canvas. Preserve the figures and divider. Leave EVERYTHING ELSE unchanged: black door shape, door frame, location pin, white background, all positions and margins. Flat black and white. Fully opaque white background. Do not add any new elements.

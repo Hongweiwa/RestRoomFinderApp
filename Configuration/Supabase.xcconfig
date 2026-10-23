@@ -1,0 +1,4 @@
+// Shared Debug/Release defaults. Empty configuration leaves Google discovery usable.
+SUPABASE_URL = 
+SUPABASE_PUBLISHABLE_KEY =
+#include? "Supabase.local.xcconfig"
